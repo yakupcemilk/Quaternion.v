@@ -1,2 +1,2 @@
 # Quaternion.v
-Quaternion calculation with V lang.
+Quaternion calculation with V lang. (Work-on-progress)
